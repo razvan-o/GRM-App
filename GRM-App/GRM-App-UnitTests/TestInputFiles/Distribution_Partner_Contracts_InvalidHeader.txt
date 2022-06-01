@@ -1,0 +1,3 @@
+﻿Partner|Mode
+ITunes|digital download
+YouTube|streaming
